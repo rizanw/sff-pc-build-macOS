@@ -8,15 +8,15 @@
 ## Hardware
 
 - Intel i5 8600K
-- Gigabyte [Aorus Z390i](https://www.gigabyte.com/Motherboard/Z390-I-AORUS-PRO-WIFI-rev-10/sp#sp):
- - Chipset: Intel® Z390 Express
- - Audio: Realtek ALC1220-VB
- - Ethernet: Intel GbE LAN Chip (Gigabit LAN 10/100/1000 Mbit/s)
- - Wifi: Intel CNVi interface 802.11a/b/g/n/ac, 2.4/5 GHz Dual-Band
- - 1 USB-C 3.1 gen 2
- - 1 USB-A 3.1 gen 2
-- RAM: 16gb
-- GPU: Saphire RX580 8Gb
+- Gigabyte [Aorus Z390i](https://www.gigabyte.com/Motherboard/Z390-I-AORUS-PRO-WIFI-rev-10/sp#sp):  
+   - Chipset: Intel® Z390 Express  
+   - Audio: Realtek ALC1220-VB  
+   - Ethernet: Intel GbE LAN Chip (Gigabit LAN 10/100/1000 Mbit/s)  
+   - Wifi: Intel CNVi interface 802.11a/b/g/n/ac, 2.4/5 GHz Dual-Band 
+   - 1 USB-C 3.1 gen 2
+   - 1 USB-A 3.1 gen 2  
+- RAM: 16gb  
+- GPU: Sapphire RX 580 8Gb
 
 ## OS :
 
