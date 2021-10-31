@@ -22,6 +22,7 @@
 
 - macOS Catalina (10.15.6) : :white_check_mark: Tested
 - macOS Big Sur (11.1) : :white_check_mark: Tested
+- macOS Monterey (12) : :white_check_mark: Tested
 - Windows 10 (20H2) : :white_check_mark: Tested
 
 ## Bootloader
@@ -58,7 +59,7 @@ you can download it from this repository inside the EFI folder.
 
 ## Final step: config.plist!
 
-you can use mine inside this EFI folder. ofc you may modify it, I recommend this [tools](https://github.com/corpnewt/ProperTree) to do so. 
+you can use mine inside this EFI folder. ofc you should modify some of it, I recommend this [tools](https://github.com/corpnewt/ProperTree) to do so. 
 or you can make your own by following this [guides](https://dortania.github.io/OpenCore-Install-Guide/config.plist/#creating-your-config-plist)
 
 # What's working or not working?
