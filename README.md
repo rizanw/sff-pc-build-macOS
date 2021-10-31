@@ -26,7 +26,7 @@
 
 ## Bootloader
 
-- [OpenCore 0.6.4](https://github.com/acidanthera/OpenCorePkg/releases/)
+- [OpenCore 0.7.4](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.4)
 
 then, how to use it? follow the instructions below
 
