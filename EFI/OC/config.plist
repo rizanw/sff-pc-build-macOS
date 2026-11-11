@@ -958,7 +958,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02033404GULNV91F</string>
+			<string>GENERATE_YOUR_OWN_MLB</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -972,9 +972,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02D70A5JV3Q</string>
+			<string>GENERATE_YOUR_OWN_SERIAL</string>
 			<key>SystemUUID</key>
-			<string>D73CA326-1CE0-4EE5-A9FA-68290C3BBDDD</string>
+			<string>GENERATE_YOUR_OWN_UUID</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
